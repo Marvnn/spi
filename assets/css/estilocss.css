@@ -1,0 +1,74 @@
+
+body{
+	background-image: url(../img/fundo.jpg);
+
+
+}
+
+#ida{
+	color: #0A0A2A ;
+	
+	
+}
+a{
+	color: #151515;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 4px;
+
+}
+
+#menu{
+	background: #F2F2F2 ;
+	padding: 10px;
+	width: 380px;
+	
+
+
+}
+.cinza{
+	color: #585858;
+}
+
+.text{
+	font-size: 0.9em;
+	color: #424242;
+	
+
+}
+.uda{
+	color: #0A0A2A ;
+	
+}
+
+
+
+#cont{
+	background-color: white;
+	margin: 5em;
+	padding: 10px 40px ;
+	text-align: left ;
+	font-size: 20px;
+	box-shadow: 4px 4px 4px 3px rgba(0, 0, 0, 0.2);
+	
+
+}
+.botao{
+	
+	padding: 5px;
+	width: 10px;
+	margin-top: 10px;
+	float: right;
+	height: 10px;
+	margin-right: 40px;
+
+}
+	div.botao a img{
+		width: 70px;
+		height: 70px;
+	
+
+	}
+
+	
+	
