@@ -1,2 +1,1 @@
-# spi
-Saúde Prevenção e informação
+# info-covid
